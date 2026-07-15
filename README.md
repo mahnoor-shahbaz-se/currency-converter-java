@@ -5,7 +5,9 @@ A console-based Java currency converter using BigDecimal for precise financial c
 ---
 
 ## 📸 Sample Output
+
 <img width="540" height="953" alt="carbon (6)" src="https://github.com/user-attachments/assets/00ac7c9a-ed2c-4650-a8ed-e5c7a4e64961" />
+
 ---
 
 ## ✨ Features
@@ -105,3 +107,5 @@ java CurrencyConverter
 
 **Mahnoor Shahbaz**
 🔗 [LinkedIn](https://www.linkedin.com/in/mahnoor-shahbaz-se/) &nbsp;|&nbsp; 📧 [mahnoorshahbaz86@gmail.com](mailto:mahnoorshahbaz86@gmail.com)
+
+More projects → [GitHub Profile](https://github.com/mahnoor-shahbaz-se)
