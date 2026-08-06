@@ -1,27 +1,27 @@
-# 💱 Currency Converter
+# Currency Converter
 
 A console-based Java currency converter using BigDecimal for precise financial calculations, supporting 10 major currencies with robust input validation and a menu-driven interface.
 
 ---
 
-## 📸 Sample Output
+## Sample Output
 
-<img width="540" height="953" alt="carbon (6)" src="https://github.com/user-attachments/assets/00ac7c9a-ed2c-4650-a8ed-e5c7a4e64961" />
-
----
-
-## ✨ Features
-
-- 💰 **10 major currencies** — USD, EUR, GBP, INR, AED, PKR, JPY, AUD, CAD, KWD
-- 🔢 **BigDecimal precision** — accurate financial calculations
-- 🔄 **Continuous conversion** — convert multiple times without restarting
-- ✅ **Input validation** — handles invalid numbers, negative amounts, unknown currencies
-- 🚫 **Same currency check** — prevents converting to the same currency
-- 🧩 **Modular design** — clean separation of methods
+<img width="540" height="953" alt="Sample console output" src="https://github.com/user-attachments/assets/00ac7c9a-ed2c-4650-a8ed-e5c7a4e64961" />
 
 ---
 
-## 💱 Supported Currencies
+## Features
+
+- **10 major currencies** — USD, EUR, GBP, INR, AED, PKR, JPY, AUD, CAD, KWD
+- **BigDecimal precision** — accurate financial calculations
+- **Continuous conversion** — convert multiple times without restarting
+- **Input validation** — handles invalid numbers, negative amounts, unknown currencies
+- **Same currency check** — prevents converting to the same currency
+- **Modular design** — clean separation of methods
+
+---
+
+## Supported Currencies
 
 | Code | Currency |
 |------|----------|
@@ -38,7 +38,7 @@ A console-based Java currency converter using BigDecimal for precise financial c
 
 ---
 
-## 🛠️ Tech & Concepts Used
+## Tech & Concepts Used
 
 | Concept | Applied |
 |--------|---------|
@@ -52,48 +52,41 @@ A console-based Java currency converter using BigDecimal for precise financial c
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
-### ✅ Step 1 — Install Java (One Time Only)
-1. Go to 👉 https://www.java.com/en/download/
+**Step 1 — Install Java (one time only)**
+1. Go to [java.com/en/download](https://www.java.com/en/download/)
 2. Click **Download Java**
 3. Install it like any normal program (Next → Next → Finish)
-4. **Restart your computer** after installing
+4. Restart your computer after installing
 
----
+**Step 2 — Download the project**
 
-### ✅ Step 2 — Download the Project
-Open **Command Prompt** (search CMD in Windows search bar) and paste this:
+Open Command Prompt (search CMD in Windows search bar) and run:
 ```bash
 git clone https://github.com/mahnoor-shahbaz-se/currency-converter-java.git
 ```
 
----
-
-### ✅ Step 3 — Go Into the Project Folder
+**Step 3 — Go into the project folder**
 ```bash
 cd currency-converter-java
 ```
 
----
-
-### ✅ Step 4 — Compile the Program
+**Step 4 — Compile the program**
 ```bash
 javac CurrencyConverter.java
 ```
-> You'll see no output if it works — that's normal! ✅
+No output means it worked — that's expected.
 
----
-
-### ✅ Step 5 — Run the Program
+**Step 5 — Run the program**
 ```bash
 java CurrencyConverter
 ```
-> Enter amount, source currency and target currency when prompted!
+Enter amount, source currency, and target currency when prompted.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Live exchange rate API integration
 - [ ] GUI version using Java Swing or JavaFX
@@ -103,9 +96,7 @@ java CurrencyConverter
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Mahnoor Shahbaz**
-🔗 [LinkedIn](https://www.linkedin.com/in/mahnoor-shahbaz-se/) &nbsp;|&nbsp; 📧 [mahnoorshahbaz86@gmail.com](mailto:mahnoorshahbaz86@gmail.com)
-
-More projects → [GitHub Profile](https://github.com/mahnoor-shahbaz-se)
+[LinkedIn](https://www.linkedin.com/in/mahnoor-shahbaz-se/) &nbsp;|&nbsp; [Email](mailto:mahnoorshahbaz86@gmail.com)
